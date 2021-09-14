@@ -104,6 +104,7 @@ System::Void HereWeGoAgain::f1::timer1_Tick(System::Object^ sender, System::Even
         this->pictureBox_two_lights->Visible = false;
         timer_tick_counter++;
         break;
+        //cgbx_SDvpidfzbiuang;kdfznv[IDFNv;zdfnv[iaeng;kaernb[ xhby-9qanpi4w5nbg[qeotanh aie[rjtb]0ti[e4a
     case 4:
         this->pictureBox_four_lights->Visible = true;
         this->pictureBox_three_lights->Visible = false;
